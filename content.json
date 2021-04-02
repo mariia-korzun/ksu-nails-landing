@@ -1,0 +1,211 @@
+{
+    "slides": [
+        {
+            "imageUrl": "images/image-bg1.jpg",
+            "title": "уникальность",
+            "subTitle": "Создай свой стиль",
+            "description": "Incredible Nail Designs & Special Promotions"
+        },
+        {
+            "imageUrl": "images/image-bg2.jpg",
+            "title": "здоровье",
+            "subTitle": "Узнай о наших услугах",
+            "description": "Experienced Team & Exclusive Procedures"
+        },
+        {
+            "imageUrl": "images/image-bg3.jpg",
+            "title": "красота",
+            "subTitle": "Придумай свой дизайн",
+            "description": "Excellent Quality & Affordable Prices"
+        }
+    ],
+    "statisticBlocks": [
+        50,
+        1096,
+        250,
+        234
+    ],
+    "carousel": [
+        {
+            "imageUrl": "images/image-bg1.jpg"
+        },
+        {
+            "imageUrl": "images/image-bg2.jpg"
+        },
+        {
+            "imageUrl": "images/image-bg3.jpg"
+        }
+    ],
+    "gallery": [
+        {
+            "imageUrl": "images/gallery/img_0.jpg"
+        },
+        {
+            "imageUrl": "images/gallery/img_1.jpg"
+        },
+        {
+            "imageUrl": "images/gallery/img_2.jpg"
+        },
+        {
+            "imageUrl": "images/gallery/img_3.jpg"
+        },
+        {
+            "imageUrl": "images/gallery/img_4.jpg"
+        },
+        {
+            "imageUrl": "images/gallery/img_5.jpg"
+        },
+        {
+            "imageUrl": "images/gallery/img_6.jpg"
+        },
+        {
+            "imageUrl": "images/gallery/img_7.jpg"
+        },
+        {
+            "imageUrl": "images/gallery/img_8.jpg"
+        },
+        {
+            "imageUrl": "images/gallery/img_9.jpg"
+        },
+        {
+            "imageUrl": "images/gallery/img_10.jpg"
+        },
+        {
+            "imageUrl": "images/gallery/img_11.jpg"
+        },
+        {
+            "imageUrl": "images/gallery/img_12.jpg"
+        }
+    ],
+    "pricing": [
+        {
+            "title": "Комби маникюр+однотон. покрытие",
+            "price": "300грн",
+            "description": ""
+        },
+        {
+            "title": "Маникюр без покрытия",
+            "price": "180грн",
+            "description": ""
+        },
+        {
+            "title": "Снятие покрытия другого мастера",
+            "price": "15грн",
+            "description": ""
+        },
+        {
+            "title": "Снятие без покрытия",
+            "price": "50грн",
+            "description": ""
+        },
+        {
+            "title": "Матовое покрытие (все ногти)",
+            "price": "30грн",
+            "description": ""
+        },
+        {
+            "title": "Укрепление пудрой/гелем",
+            "price": "30грн",
+            "description": ""
+        },
+        {
+            "title": "Укрепление пудрой/гелем (все ногти)",
+            "price": "50грн",
+            "description": ""
+        },
+        {
+            "title": "Втирка, хлопья",
+            "price": "15грн",
+            "description": ""
+        },
+        {
+            "title": "Втирка, хлопья (все ногти)",
+            "price": "80грн",
+            "description": ""
+        },
+        {
+            "title": "Блестки гель (все ногти)",
+            "price": "70грн",
+            "description": ""
+        },
+        {
+            "title": "Кошачий глаз",
+            "price": "10грн",
+            "description": ""
+        },
+        {
+            "title": "Кошачий глаз",
+            "price": "10грн",
+            "description": ""
+        },
+        {
+            "title": "Фольга",
+            "price": "10грн",
+            "description": ""
+        },
+        {
+            "title": "Фольга (все ногти)",
+            "price": "70грн",
+            "description": ""
+        },
+        {
+            "title": "Рисунок",
+            "price": "15-40грн",
+            "description": ""
+        },
+        {
+            "title": "Слайдеры",
+            "price": "15грн",
+            "description": ""
+        },
+        {
+            "title": "Стразы (весь ноготь)",
+            "price": "50грн",
+            "description": ""
+        },
+        {
+            "title": "Ремонт",
+            "price": "10-30грн",
+            "description": ""
+        },
+        {
+            "title": "Донаращивание",
+            "price": "10-30грн",
+            "description": ""
+        },
+        {
+            "title": "Ленты, лунки",
+            "price": "10грн",
+            "description": ""
+        },
+        {
+            "title": "Ленты, лунки (все ногти)",
+            "price": "70грн",
+            "description": ""
+        },
+        {
+            "title": "Аэрография",
+            "price": "15-30грн",
+            "description": ""
+        },
+        {
+            "title": "Аэрография (все ногти)",
+            "price": "60-120грн",
+            "description": ""
+        },
+        {
+            "title": "Френч камуфляж",
+            "price": "60грн",
+            "description": ""
+        },
+        {
+            "title": "Френч цвет",
+            "price": "80грн",
+            "description": ""
+        }
+    ],
+    "aboutMe": {
+        "heading": "Всем привет,",
+        "article":"Меня зовут Ксюша, и вот уже три года я творю красоту на ваших ноготочках. Я очень люблю свое дело и считаю, что в человеке все должно быть прекрасно, до кончиков пальцев. <ul>Мои главные правила в работе:<li>👌🏼Качество</li><li>👌🏼Клиентоориентированность</li><li>👌🏼Стерильность</li></ul>"   
+    }
+}
